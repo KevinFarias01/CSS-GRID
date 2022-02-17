@@ -11,16 +11,13 @@
 }
 
 .cabecalho {
-    background: #1d922d;
     grid-area: cabecalho;
 }
  
 .conteudo {
-    background: #ac3d3d;
     grid-area: conteudo;
 }
 
 .rodape {
-    background: #395297;
     grid-area: rodape;
 }
